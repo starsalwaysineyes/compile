@@ -197,6 +197,7 @@ enum class TokenType {
     IDENTIFIER      // 标识符
 };
 
+
 /*
 NFA 状态结构，包含状态 ID、转换、是否为接受状态、Token 类型。
 */
